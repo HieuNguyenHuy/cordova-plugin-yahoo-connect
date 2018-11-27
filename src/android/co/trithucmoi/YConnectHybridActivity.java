@@ -25,7 +25,7 @@ public class YConnectHybridActivity extends Activity {
   private final static String TAG = YConnectHybridActivity.class.getSimpleName();
 
   // Client ID
-  public final static String clientId = "APPLICATION_ID";
+  public final static String clientId = "dj00aiZpPTBNRHJsU0pDTnNmeSZzPWNvbnN1bWVyc2VjcmV0Jng9M2M-";
 
   //1を指定した場合、同意キャンセル時にredirect_uri設定先へ遷移する
   public final static String BAIL = "1";
